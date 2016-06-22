@@ -1,0 +1,13 @@
+autoscan: warning: missing AC_CHECK_FUNCS([mkdir]) wanted by: 
+	src/ilo_credit/ilo-credit-store.cpp:164
+autoscan: warning: missing AC_CHECK_HEADERS([fcntl.h]) wanted by: 
+	src/ilo_credit/ilo-credit-store.cpp:12
+autoscan: warning: missing AC_CHECK_HEADERS([termios.h]) wanted by: 
+	src/credit_save/credit_save.c:7
+autoscan: warning: missing AC_CHECK_HEADER_STDBOOL wanted by: 
+	src/ilo_credit/ilo-credit-store.cpp:66
+	src/ilo_credit/ilo-credit-store.cpp:73
+	src/ilo_credit/ilo-credit-store.cpp:78
+	src/ilo_credit/ilo-credit-store.cpp:85
+autoscan: warning: missing AC_PROG_RANLIB wanted by: 
+	ltmain.sh:2455
